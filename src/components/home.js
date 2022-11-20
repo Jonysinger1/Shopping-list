@@ -5,12 +5,15 @@ import "../styles/home.css";
 import Navbar from "./navbar";
 const Home = () => {
   return (
-    <section>
+    <div>
       <Navbar />
+    <section>
+      
       {products.map((item) => {
         return <Card key={item.id} item={item} />;
       })}
     </section>
+    </div>
   );
 };
 export default Home;

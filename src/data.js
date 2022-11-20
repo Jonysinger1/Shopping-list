@@ -6,7 +6,7 @@ const products = [
     img: "https://m.media-amazon.com/images/I/71xn9bCRfhL._FMwebp__.jpg",
     title:"the new iPhone 11",
     store: "Azrieli moddin",
-    img2:"https://m.media-amazon.com/images/I/41VBb6XqThL._AC_.jpg",
+    img2:"https://m.media-amazon.com/images/I/41CYvvlV6HL._AC_.jpg",
   },
   {
     id: 2,
@@ -24,7 +24,7 @@ const products = [
     img: "https://m.media-amazon.com/images/I/61FZC+6hDFL._AC_SL1500_.jpg",
     title:"the new iPhone 13",
     store: "Azrieli moddin",
-    img2:"https://m.media-amazon.com/images/I/81f9uXE7xFL._AC_SL1500_.jpg",
+    img2:"https://hotstore.hotmobile.co.il/media/catalog/product/cache/ed1d7868e96e8a14b52484275e157b17/s/t/starlight_5.png",
 },
 ];
 

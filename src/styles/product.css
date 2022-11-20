@@ -38,20 +38,24 @@
   .pdetails p:nth-child(1) {
   font-weight: bold;
   margin: 10px;
+  text-decoration: underline 2px;
 }
 .pdetails p:nth-child(2) {
-  color: grey;
+  font-weight: bold;
+  color: blue;
   font-size: 1.1rem;
   margin: 10px;
 }
 .pdetails p:nth-child(3) {
+  font-weight: bold;
   font-weight: bolx;
-  color: grey;
+  color: blue;
   margin: 10px;
 }
 .pdetails p:nth-child(4) {
+  font-weight: bold;
     font-weight: bolx;
-    color: grey;
+    color: blue;
     margin: 10px;
   }
   
