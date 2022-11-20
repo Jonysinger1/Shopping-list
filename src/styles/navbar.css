@@ -4,18 +4,30 @@
   }
   
   nav {
+    
     width: 100%;
-    height: 60px;
+    height: 80px;
     background-color: skyblue;
+    display: flex;
+  
+    align-items: center;
+    padding: 0 20px;
+    justify-content: space-between;
+    top: 0;
+  
   }
   
   .my_shop {
-    display: flex;
+  
     font-size: 1.5rem;
     font-weight: bold;
     color: black;
     font-family: cursive;
-    cursor: pointer;
+
+    display: flex;
+   /* put the text at the middle of the nav bar */
     align-items: center;
+    justify-content: center; 
+    
 
   }
